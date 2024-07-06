@@ -11,3 +11,10 @@ Logic: Compare first and second number and swap it.
 
 - Time complexity O(n^2)
 - Space complexity O(1)
+
+## Insertion Sort
+
+logic: set a number with it's suitable position 
+
+- Time complexity O(n^2)
+- Space complexity O(1)
